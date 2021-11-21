@@ -10,10 +10,10 @@ To add this project to android studio.
 - In android studio goto file 
 - Select new > Import from version control 
 - Choose git / github (git option recommanded ) 
-- Paste url to repository i.e https://github.com/karansthr/Tic-Tac-Toe.git
+- Paste url to repository i.e https://github.com/harshrajotya/Tic-Tac-Toe.git
 - Click on clone.
 
-Play Store https://play.google.com/store/apps/details?id=jetray.tictactoe
+
 
 [![N|Solid](https://lh3.googleusercontent.com/qwq46W93q9KXYGofoK1fOB4D6LfZ7DRZWbveSvO4Z9Kadcl5ZjP7WQBGZ4gHQ6FdmNY=h900-rw)]
 
